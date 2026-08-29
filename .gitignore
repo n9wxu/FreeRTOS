@@ -4,12 +4,14 @@
 # Ignore build results
 [Dd]ebug/
 [Dd]ebugPublic/
+[Dd]ebug_with_Libslirp/
 [Rr]elease/
 [Rr]eleases/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+[Bb]uild/
 
 # CodeWarrior temporary files
 *.tdt
